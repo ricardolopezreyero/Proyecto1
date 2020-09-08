@@ -1,2 +1,3 @@
-Estoy aprendiendo a usar estas herramientas y me voy a volver un mega experto por que me encanta. 
-Cambiando el readme
+# Ricardo López Reyero
+No le hagas mucho caso a esto por ahorita, solo estoy aprendiendo y practicando cosas, pero va ir evolucionando poco a poco. 
+[![Evolución](https://i.blogs.es/db3fc3/evolution/450_1000.jpg "Evolución")](https://i.blogs.es/db3fc3/evolution/450_1000.jpg "Evolución")
